@@ -1,1 +1,1 @@
-<template>Page Contact</template>
+<template>Page Contact </template>
